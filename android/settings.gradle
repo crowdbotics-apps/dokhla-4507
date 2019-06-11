@@ -1,0 +1,3 @@
+rootProject.name = 'dokhla_4507'
+
+include ':app'
